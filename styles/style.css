@@ -202,8 +202,6 @@ em { font-style: italic; }
 .intro-img {
    position: relative;
    flex-grow: 1;
-   background-image: url(../images/img-gif.jpg);
-   background-position: center center;
 }
 
 
@@ -498,6 +496,7 @@ em { font-style: italic; }
 /***********************************************************************
 * #ALERT
 ***********************************************************************/
+
 .alert {
    display: flex;
    align-items: center;
